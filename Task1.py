@@ -2,7 +2,8 @@
 num = int(input("Введите число:"))
 if 5 < num < 8:
     print("holiday")
-elif 1 <= num < 6:
+elif 1 <=num < 6:
     print("work")
 else:
     print("uncorrect num")
+    
